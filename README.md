@@ -4,10 +4,10 @@ all files should be in the github assignment repository. you should include a li
 
 ## wireframe
 look at [this](https://wireframe.cc/N7lR5G) wireFrame,<br>
-this site comtain 3 major element:
-* header
-* main
-* Aside
+this site contain 3 major element:
+* Header
+* Paragraph about your self
+* Gallery
 
 for each element create component and design your component like the wireframe.
 
@@ -15,8 +15,8 @@ for each element create component and design your component like the wireframe.
 to header component add:
 * title - the site title 
 * logo - some picture
-* decription
-* create another comonent which describe the nav elements(button)
+* decription of your site
+* create another comonent which describe the nav elements(button) and service for nav array. each nav contain text and description
 
 ### Main
 to the main section add hat you want
