@@ -22,10 +22,12 @@ to header component add:
 to the main section add hat you want
 
 ### Aside
-to aside section add 2 pic that switched every 10 seconde.
+create new service which contain array of image url and title (e.g {url: "", title:""})  <br>
+For aside section,  add 2 pictures (<img> tag) that switched every 10 seconde. the picture contain image and above of picture write the picture title's
 
 <hr>
 the navigation menu template should iterate on the array and make the navigation items, pass the object to nav-item with @Input() decorator. Style the app as you wish.
 
-upload the app to fire base and commit your change.
-good luck
+deploy app into firebase and commit your change.<br>
+push your code (this repository) and add the firebase url into readme file
+.<br>good luck
